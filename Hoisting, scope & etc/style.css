@@ -1,0 +1,11 @@
+body {
+  background-color: thistle;
+  font-family: sans-serif;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2XP0KdpeXiauf0T1eC-YmKHg0RpDt8qSKQ&usqp=CAU");
+  background-repeat: no-repeat;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
