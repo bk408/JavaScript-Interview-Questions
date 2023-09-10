@@ -8,4 +8,7 @@ body {
 h1 {
   text-align: center;
   justify-content:center ;
+  background: #000;
+   border: 2px solid black;
+   border-radius: 5px;
 }
